@@ -14,9 +14,9 @@ Repository Contents
 
 Product Versions
 ----------------
-* [FALCON-007](https://www.noduino.org/) - Bare pcb.
-* [FALCON-008](https://www.noduino.org/) - Protoshield Kit. Bare pcb plus stackable headers, indicator LEDs, push buttons and resistors, chips ...
-* [FALCON-009](https://www.noduino.org/) - Complete Falcon board.
+* [FALCON-007](http://www.noduino.org/) - Bare pcb.
+* [FALCON-008](http://www.noduino.org/) - Protoshield Kit. Bare pcb plus stackable headers, indicator LEDs, push buttons and resistors, chips ...
+* [FALCON-009](http://www.noduino.org/) - Complete Falcon board.
 
 
 License Information
