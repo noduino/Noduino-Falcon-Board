@@ -8,8 +8,8 @@ Noduino Falcon Board
 
 Repository Contents
 -------------------
-* V1.2/ - All Eagle design files (.brd, .sch) of Falcon version 1.4 (FT232RL USB2UART chip)
-* V2.1/ - All Eagle desgin files (.brd, .sch) of Falcon Version 2.1 (CP2102 USB2UART chip)
+* V1.2/ - All Eagle design files (.brd, .sch) and Gerber files of Falcon version 1.4 (FT232RL USB to UART chip)
+* V2.1/ - All Eagle desgin files (.brd, .sch) and Gerber files of Falcon version 2.1 (CP2102 USB to UART chip)
 
 
 Product Versions
