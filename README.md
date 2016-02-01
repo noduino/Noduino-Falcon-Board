@@ -1,7 +1,7 @@
 Noduino Falcon Board
 =======================================
 
-![Noduino Falcon Board V1.0](Falcon-V1.0.jpg)
+![Noduino Falcon Board V1.0](Falcon-v1.0.jpg)
 
 [*SparkFun Arduino ProtoShield - Bare PCB (DEV-11665)*](https://www.sparkfun.com/products/11665)
 [*Noduino Falcon Board - Complete Falcon board (FALCON-009)*](https://www.noduino.org/)
