@@ -11,6 +11,11 @@ Noduino Falcon Board
 [*Noduino Falcon Board - Complete Falcon board (FALCON V2.4)*](https://www.noduino.org/)
 
 
+![Noduino Falcon Board V1.0](Falcon-v1.0-bottom.jpg)
+
+[*Noduino Falcon Board Bottom - Complete Falcon board*](https://www.noduino.org/)
+
+
 Overview
 -------------------
 Noduino Falcon is an ESP8266 Quick Development board.
@@ -26,7 +31,7 @@ The pin map of all versions of Falcon Board:
 * D6	GPIO14 (HSPI CLK)
 * D7	GPIO16
 
-* D8	GPIO4 
+* D8	GPIO4
 * D9	GPIO5
 * D10	GPIO0  (SPI CS2)
 * D11	GPIO8 (SD D1 / SPI MOSI)
